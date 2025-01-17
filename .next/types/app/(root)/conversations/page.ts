@@ -1,4 +1,4 @@
-// File: C:\Users\Joel Jara\Desktop\Carnetlify Chat\app\(root)\conversations\page.tsx
+// File: C:\Users\Joel Jara\Desktop\Carnetlify-Chat\app\(root)\conversations\page.tsx
 import * as entry from '../../../../../app/(root)/conversations/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

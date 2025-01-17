@@ -49,28 +49,7 @@ Para iniciar el desarrollo del chat de Carnetlify, sigue estos pasos:
 3. Crea el archivo ".env.local"
    Por motivos de seguridad, GitHub no me deja subir el archivo para probar en local que la app funciona, sin él la app no funcionará, el código és el siguiente:
 
-CONVEX_DEPLOYMENT=dev:proper-raccoon-902
-
-EXPO_PUBLIC_CONVEX_URL=https://proper-raccoon-902.convex.cloud
-
-NEXT_PUBLIC_CONVEX_URL=https://proper-raccoon-902.convex.cloud
-
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_aW1tdW5lLWNvdy00My5jbGVyay5hY2NvdW50cy5kZXYk
-
-CLERK_SECRET_KEY=sk_test_UmfDLwyv4YCEFHJjFUmH6sm7D1YAWT3tZtRhh0Zx6f
-
-CLERK_WEBHOOK_SECRET=whsec_1f7iyDV6TJSS/9Raxb0XOk4/NDNB+K1D
-
-UPLOADTHING_SECRET='sk_live_f9505812106c8289e9e8c6b699550613a4f71bc2f41d1a8bc2770d0b061b032d'
-
-UPLOADTHING_APP_ID='9wu3lhv2vg'
-
-# Live Kit
-LIVEKIT_API_KEY=APIVex4p2X3e8jV
-LIVEKIT_API_SECRET=5EjmJb6FHSnsetaJBwhCCFZ3b1iEoipsNBmfxjScYm1
-LIVEKIT_URL=wss://carnetlify-bjuz08qo.livekit.cloud
-
-5. Inicia la aplicación:
+4. Inicia la aplicación:
    ```bash
    npm run dev
    ```

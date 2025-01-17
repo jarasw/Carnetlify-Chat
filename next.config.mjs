@@ -6,7 +6,7 @@ const nextConfig = {
     removeConsole: process.env.NODE_ENV !== "development",
   },
   reactStrictMode: true, 
-  // swcMinify: true, linea comentada porque Vercel me la está haciendo quitar en sus logs
+  swcMinify: true,
   images: {
     domains: ["img.clerk.com", "utfs.io"],
   },
