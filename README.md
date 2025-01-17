@@ -65,9 +65,10 @@ UPLOADTHING_SECRET='sk_live_f9505812106c8289e9e8c6b699550613a4f71bc2f41d1a8bc277
 
 UPLOADTHING_APP_ID='9wu3lhv2vg'
 
-# Live Kit
 LIVEKIT_API_KEY=APIVex4p2X3e8jV
+
 LIVEKIT_API_SECRET=5EjmJb6FHSnsetaJBwhCCFZ3b1iEoipsNBmfxjScYm1
+
 LIVEKIT_URL=wss://carnetlify-bjuz08qo.livekit.cloud
 
 4. Inicia la aplicación:
